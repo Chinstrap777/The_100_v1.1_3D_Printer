@@ -1,4 +1,4 @@
-link to the official v1.1 BOM (about $350)
+link to the official v1.1 BOM <a href="https://docs.google.com/spreadsheets/d/1e5dhm4ck-dtci_GDkMuuwxgp788YJ5hdL6JvRKvF1Zc/edit?usp=sharing">Click here to visit Example</a> (about $350)
 
 Link to the upgraded linear motion kit
 
