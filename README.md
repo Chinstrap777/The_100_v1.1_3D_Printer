@@ -198,3 +198,14 @@ lsusb
    pin: EXP1_1
    ```
    <img src=Images/cfg_tft_emulated_12864.png/><br/>
+
+
+### Stepper drivers
+
+There are multiple HV-options (beyond 24V), pay close attention to the maximum safe voltage (based on the components on the boards)!
+
+| Manufacturer | Driver chip | Rated voltage | Max safe voltage | Max current |
+|-|-|-|-|-|
+| [BigTreeTech TMC2130](https://s.click.aliexpress.com/e/_AdHelD) | TMC2130 | 45V | 42V | 2.5A |
+| [BigTreeTech TMC5160](https://s.click.aliexpress.com/e/_AKRDf1) | TMC5160 | 35V | 32V | 3A |
+| BigTreeTech TMC5160 Pro | TMC5160 | 60V | **48V** | 3A |
